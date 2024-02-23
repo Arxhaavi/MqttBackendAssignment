@@ -16,3 +16,7 @@ Then you need an installation of Python (I believe, not 100% sure)
 The container should now be available in docker desktop UI to run and tinker with.
 
 
+**OPTIONAL:** If you want the app to correctly run locally, you need an installation of sqlite3 (follow instructions here: https://www.sqlitetutorial.net/download-install-sqlite/)
+              Then you want to have something to view the database and see the changes with. I prefer DB Browser for SQLite (You can get it here: https://sqlitebrowser.org/dl/)
+
+
