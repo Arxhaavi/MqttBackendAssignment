@@ -12,7 +12,7 @@ First, you need an installation of Docker on your device. Follow instructions he
 Then you need an installation of Python (I believe, not 100% sure)
 **1) Clone the repository to a folder of your choice or create a new one for it**
 **2) navigate to the folder in cmd**
-**3) Run the command "docker build -t mqttassignment"**
+**3) Run the command "docker compose up --build"**
 The container should now be available in docker desktop UI to run and tinker with.
 
 
